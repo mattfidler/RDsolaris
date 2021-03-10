@@ -8,6 +8,7 @@ ffmpeg_dev
 fontconfig_dev
 gcc5gfortran
 gdal_dev
+gdb
 geos_dev
 gfile
 glib_dev

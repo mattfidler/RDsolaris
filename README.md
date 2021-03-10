@@ -44,7 +44,7 @@ Once the solaris machine has booted up, run the `./install.sh` script in this di
 This:
 - Installs the dependencies listed in r-hub
 - Installs from source `libgit2`, required for `devtools`
-- Installs fro source `udunits`, required for `units`
+- Installs from source `udunits`, required for `units`
 
 This should be enough to compile/run `RxODE`/`nlmixr` on solaris; Many
 packages require the `gmake` instead of the solaris `make` command.
